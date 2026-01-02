@@ -1,5 +1,8 @@
 # 💫 About Me:
-                                                         HI! I AM AARYAN PATEL<br> 🔭 I'm currently working on  <br>Building end-to-end data projects that combine exploratory analysis, predictive modeling, and impactful visual storytelling. Recent work includes customer segmentation using clustering algorithms and time-series forecasting for retail demand.<br><br>🧑‍🤝‍🧑 I'm looking to collaborate on  <br>Open-source data science projects, especially those involving real-world datasets, anomaly detection, or social impact. I’m also open to contributing to dashboards, notebooks, or documentation that make data more accessible.<br><br>🧠 I'm looking for help with  <br>Improving my skills in deep learning for tabular data, mastering deployment workflows (e.g., Streamlit, FastAPI), and understanding advanced feature engineering techniques.<br><br>🌱 I'm currently learning<br><br>SQL optimization and window functions<br><br>Data engineering basics with Airflow and dbt<br><br>Real-world case studies in healthcare and finance analytics<br><br>💬 Ask me about<br><br>Python for data analysis<br><br>Pandas tricks and visualizations<br><br>How to structure a compelling data story<br><br>My favorite Kaggle competitions and what I learned from them<br><br>⚡ Fun fact  <br>I once analyzed football match data and discovered that teams with more completed passes in the final third win nearly 70% of their games — and my favorite club’s winning streak perfectly matched that pattern!
+                                                                                                          HI! I AM AARYAN PATEL
+                                                         I AM CURRENTLY WORKING ON DATA SCIENCE RELATED PROJECTS.
+                                                         YOU CAN CONNECT TO ME ALL ABOUT AND EVERYTHING RELATED TO PYTHON.
+                                                         I LIKE TO CODE AND PLAY FOOTBALL.
 
 
 ## 🌐 Socials:
@@ -11,8 +14,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=Aaryan-Patel-27&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Aaryan-Patel-27&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryan-Patel-27&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
